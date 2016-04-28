@@ -27,16 +27,7 @@
         android:id="@+id/listStep"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:layout_below="@+id/descripciomaquina" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="New Text"
-        android:id="@+id/descripciomaquina"
-        android:layout_below="@+id/qrlectormaquina"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_below="@+id/qrlectormaquina" />
 
     <TextView
         android:layout_width="wrap_content"
